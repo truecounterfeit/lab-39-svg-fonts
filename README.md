@@ -13,8 +13,9 @@
 * Test your redux reducers 
 * Test your util methods
 
-## Bonus 2pts
-* Create full crud for two resources 
+## Bonus 2pts Each
+* Implement a drop down menu with only CSS
+* Add a well designed and styled form with custom radio buttons
 
 ####  Documentation  
 Write a description of the project in your README.md
